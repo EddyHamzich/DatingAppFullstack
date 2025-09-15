@@ -1,1 +1,1 @@
-# Hosted here: https://timder.netlify.app/
+# Hosted here: https://timder.eu/
